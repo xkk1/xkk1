@@ -1,12 +1,12 @@
-# 👋 Hi, I'm xkk1 \| 你好，我是小喾苦
+# 👋 Hi, I'm xkk \| 你好，我是小喾苦
 
 ---
 
 ## 👤 About Me \| 关于我
 
 -   ID：`xkk1` ([GitHub](https://github.com/xkk1) | [GitLab](https://gitlab.com/xkk1) | [Gitee](https://gitee.com/xkk1) | [GitCode](https://gitcode.com/xkk1))
--   Email 电子邮箱：<xkk1@120107.xyz>
--   Personal website 个人网站: <https://www.120107.xyz/>  
+-   Email 电子邮箱：<xkk@xkke.cn>
+-   Personal website 个人网站: <https://www.xkke.cn/>  
 - Bilibili 哔哩哔哩: <https://space.bilibili.com/513689605>
 -   Interests 兴趣：
     -   Coding 编程: Python3, Java, JavaScript...
